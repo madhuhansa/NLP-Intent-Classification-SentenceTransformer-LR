@@ -1,0 +1,1 @@
+paraphrase-MiniLM-L6-v2

@@ -1,0 +1,53 @@
+{
+  "intents": [
+    {
+      "tag": "start",
+      "patterns": [
+        "Hi","Hi bot",
+        "Hello","Hey","Heyyy",
+        "Hello there",
+        "Hi there",
+        "What's up?",
+        "Hey there",
+        "Hi there","Hi buddy",
+        "Hey friend",
+        "Hi everyone"
+      ]
+    },
+    {
+      "tag": "end",
+      "patterns": [
+        "Bye", "Bye bot",
+        "Goodbye",
+        "See you later",
+        "Catch you later",
+        "Talk to you soon",
+        "Take care",
+        "See ya",
+        "See you soon",
+        "Later",
+        "Catch you soon",
+        "Bye bye",
+        "Talk later"
+      ]
+    },
+    {
+      "tag": "thank_you",
+      "patterns": [
+        "Thank you",
+        "Thanks",
+        "Thanks a lot",
+        "Thanks so much",
+        "Thanks buddy",
+        "Thanks friend",
+        "Thank you very much",
+        "Appreciate it",
+        "Thanks for your help",
+        "appreciate your help",
+        "Ty",
+        "Thanks again",
+        "tnx"
+      ]
+    }
+  ]
+}
